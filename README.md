@@ -1,5 +1,7 @@
 # music-app
 
+First App with VueJs
+
 ## Project setup
 ```
 npm install
